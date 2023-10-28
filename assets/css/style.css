@@ -9,7 +9,7 @@ nav {
   > ul {
     display: flex;
     gap: 30px;
-    > a {
+    > li > a {
       font-size: 20px;
       font-weight: 500;
     }
@@ -186,6 +186,10 @@ footer {
     margin-top: 5px;
     > ul {
       display: none;
+      >li>a{
+        font-size: 16px;
+        
+      }
     }
     > a>svg {
       display: block;

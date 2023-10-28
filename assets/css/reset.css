@@ -17,7 +17,7 @@ a {
   height: 45px;
   border: none;
   border-radius: 5px;
-  background: var(--btn-main-backcolor);
+  background-color: var(--btn-main-backcolor);
   font-size: 20px;
   font-weight: 500;
   color: var(--btn-textcolor);
